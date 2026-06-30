@@ -1,0 +1,21 @@
+<svg width="160" height="160" viewBox="0 0 160 160" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Vogue Cutts logo</title>
+  <desc id="desc">Stylized barber scissors and star logo for Vogue Cutts</desc>
+  <defs>
+    <linearGradient id="bg" x1="20" y1="16" x2="140" y2="144" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#1A1612"/>
+      <stop offset="1" stop-color="#3B3028"/>
+    </linearGradient>
+    <linearGradient id="gold" x1="48" y1="22" x2="112" y2="138" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F5D29C"/>
+      <stop offset="1" stop-color="#C9974E"/>
+    </linearGradient>
+  </defs>
+  <circle cx="80" cy="80" r="72" fill="url(#bg)"/>
+  <path d="M50 42C58 32 72 30 80 40C88 30 102 32 110 42C92 62 92 98 110 118C102 128 88 130 80 120C72 130 58 128 50 118C68 98 68 62 50 42Z" fill="url(#gold)" opacity="0.9"/>
+  <path d="M71 48L55 64L80 88L105 64L89 48H71Z" fill="#1A1612"/>
+  <path d="M58 64L80 88L58 110L45 98L58 64Z" fill="#1A1612"/>
+  <path d="M102 64L80 88L102 110L115 98L102 64Z" fill="#1A1612"/>
+  <circle cx="80" cy="88" r="10" fill="#F8F4EC"/>
+  <path d="M72 88H88" stroke="#1A1612" stroke-width="6" stroke-linecap="round"/>
+</svg>
